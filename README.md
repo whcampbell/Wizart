@@ -14,6 +14,8 @@ Will Campbell - had the idea (and will provide moral support)
 I'll be working with these wonderful folks to make a much bigger project than the ones before! We're still early on in development, so no builds 
 to show yet. This will only be a log for now. Keep on coming back to see what we can do!
 
+[Back to the Castle](https://whcampbell.github.io/Ivys-Castle/)
+
 ### Meeting 1 - 9/17/20
 For the first part of the meeting, Pascal, Owen and I built up the design doc, discussing possible creative and gameplay ideas. Our plan is a top-down 
 magical survival game. The player will have to use various spells and manage their mana in order to fight back the approaching enemy horde 
