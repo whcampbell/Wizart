@@ -48,3 +48,5 @@ us in our journey through the downloads and updates. Laura and I had yet to get 
 issues with the download on that bad boy. Therefore both of our computers were out of commission. Andrew was working on the makefile once again, 
 but he needed to get his combinatorics done so he couldn't work long. Pascal set up a metafile generator for importing sound effects and sprites, 
 he's MVP today.
+
+<img src="./Waiting.png"/>
