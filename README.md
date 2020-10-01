@@ -43,4 +43,8 @@ of these woods here so that we can get to some normal programming and not twiddl
 
 ### Meeting 3 - 10/1/20
 
-
+Very brief meeting today, still working on compilation. The mac people all got cmake downloaded, but xcode was being iffy. We needed Owen to lead
+us in our journey through the downloads and updates. Laura and I had yet to get xcode, but I needed an OS update and Laura was just having
+issues with the download on that bad boy. Therefore both of our computers were out of commission. Andrew was working on the makefile once again, 
+but he needed to get his combinatorics done so he couldn't work long. Pascal set up a metafile generator for importing sound effects and sprites, 
+he's MVP today.
