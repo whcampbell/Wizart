@@ -32,3 +32,15 @@ A successful first day.
 oh yeah I also drew this
 
 <img src="./Load_Screen.png"/>
+
+### Meeting 2 - 9/24/20
+
+We were trying a while to get things to compile, but it was difficult to do across multiple platforms. Andrew and Pascal were doing most of the heavy
+lifting on that, researching CMake to get a makefile going. Pascal also set up the code to have a game window pop up, but it couldn't be compiled
+for the aforementioned reasons. The people using mac had to do some research on gcc (g++ really) that we could use. It wasn't going all too well,
+the download for clang took about five million years and there was nothing else we could do but sit around. We're all excited for when we get out
+of these woods here so that we can get to some normal programming and not twiddling our thumbs waiting on new software. 
+
+### Meeting 3 - 10/1/20
+
+
