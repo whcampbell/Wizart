@@ -50,3 +50,30 @@ but he needed to get his combinatorics done so he couldn't work long. Pascal set
 he's MVP today.
 
 <img src="./Waiting.png"/>
+
+### Meeting 4 - 10/8/20
+
+Finally got C++ to compile on mac. This took way too long. Owen was correct that what we needed to do was download xcode so as to get all the 
+necessary libraries. After that it was just installing the c++ extension on vscode and the hello world was off to the races. Pascal, Owen, George 
+and I then made some creative decisions. Pascal had drawn up some concept art for the main character and we all decided on which option we liked,
+and then we decided that we wanted random rogue-esque room generation. We had to go through some issues of this though, mostly scalability.
+This map could grow real big, and in order to save it we had to do something about efficiency. Our decision was to select rooms randomly from a 
+pool. The map will be made of tiles, however, so when a room is added it is no longer a room, it is just a bunch of tiles. Then, when the map is
+saved, it just needs to be compressed down. We decided that rooms could be created without a GUI, and then they can be loaded with a set-size 
+chunk system. I wanted to look up alternatives, but google failed me. Turns out not many people are trying to be indie game developers. Ope. 
+
+Owen also got a new role. He is now the creative writing lead! He wanted some story, and I thought that putting some lore collectibles in the 
+game would flesh it out a bit so I agreed. Andrew was dealing with cmake still, he concluded that no intelligent person has ever used cmake. 
+
+p.s. Owen is also the programming director. He also has the right to hand that role off like a hot potato. Will remains creative director. 
+
+In fact, lets assign the roles. 
+
+Pascal - Art Director, Game Dev Expert, Engine Lead
+Owen - Writing Director, Programming Director
+George - Learner Team, Associate Developer
+Laura - Learner Team, Associate Developer
+Andrew - Music Director, Compilation Expert, Associate Developer
+Will - Creative Director, Learner Team, Associate Developer
+
+p.p.s. ONION MAN
