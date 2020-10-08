@@ -62,6 +62,8 @@ pool. The map will be made of tiles, however, so when a room is added it is no l
 saved, it just needs to be compressed down. We decided that rooms could be created without a GUI, and then they can be loaded with a set-size 
 chunk system. I wanted to look up alternatives, but google failed me. Turns out not many people are trying to be indie game developers. Ope. 
 
+<img src="./characters.png"/>
+
 Owen also got a new role. He is now the creative writing lead! He wanted some story, and I thought that putting some lore collectibles in the 
 game would flesh it out a bit so I agreed. Andrew was dealing with cmake still, he concluded that no intelligent person has ever used cmake. 
 
