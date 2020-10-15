@@ -79,3 +79,17 @@ Andrew - Music Director, Compilation Expert, Associate Developer <br>
 Will - Creative Director, Learner Team, Associate Developer <br>
 
 p.p.s. ONION MAN
+
+### Meeting 5 - 10/15/20
+
+Pascal continued to be the boss of linking and engine setup over the past week. He did the grunt work on getting things to build on mac. A round of 
+applause was given to Pascal for his worthy efforts. We also decided to set down some story stuff. Owen raised a few ideas and Pascal put one up as 
+well. All this is just to give context to the world: who are we, who are the enemies we're fighting, why are you in the place where you are, et 
+cetera. We thought that we could have a narrator trying to kill the player. This way we could spice things up by changing the setting, since the 
+world is at the narrator's fingertips. Pascal and I also had some discussion about mechanics, such as what environmental effects we want, spell
+interaction, and the mechanics which would force the player to explore. 
+
+New issue came up that things would build on my mac, but not on Owen's. Just needs to update xcode for a better clang version, but needs to 
+update his OS first (like what happened with me). Laura is also getting things set up. Update: her build worked just fine. Owen (being the programming
+director) and Pascal (being the game design expert) are gonna divide the design into programming tasks for all of us to start working on. From that
+point, we'll be able to really get down to the brass tacks. 
