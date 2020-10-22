@@ -93,3 +93,10 @@ New issue came up that things would build on my mac, but not on Owen's. Just nee
 update his OS first (like what happened with me). Laura is also getting things set up. Update: her build worked just fine. Owen (being the programming
 director) and Pascal (being the game design expert) are gonna divide the design into programming tasks for all of us to start working on. From that
 point, we'll be able to really get down to the brass tacks. 
+
+### Meeting 6 - 10/22/20
+
+Going through standup, nobody did much once again since the base/engine of the game hadn't been built up yet. Pascal, being the engine master man,
+DID go pretty hard this week on knocking out the initial work. There are a few bugs with building the project but things are going pretty well.
+Pascal worked out drawing to the screen, playing music, and keyboard inputs. Pascal also educated us on how to work his engine and went through
+a test entity. Aside from that, not much. Splitting up the tasks on trello should happen very soon, and work shall be done. 
