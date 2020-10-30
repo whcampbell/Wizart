@@ -107,6 +107,6 @@ The green light has been given! Pascal has told us that everything we need to st
 documentation and get warmed up with how to use his engine. For the first part of the meeting we figured out the first set of tasks we need to
 start on. We went through the design doc to get a bunch of trello tickets going. We worked on how we wanted the UI to look, such as the 
 health, mana, and XP bars and the spells as well. After that we split up the tasks. I'm going to build up the class structure for spells, Pascal is 
-going to take item drops, I believe laura is going to take the enemies, Owen is going to work on procedurally generating rooms, and I'm not sure
+going to take item drops, I believe Laura is going to take the enemies, Owen is going to work on procedurally generating rooms, and I'm not sure
 what George and Andrew are doing. They're probably just gonna take whatever they like off the trello pile. I'm excited to finally get things going!
 Just gotta warm up my C++...
