@@ -100,3 +100,13 @@ Going through standup, nobody did much once again since the base/engine of the g
 DID go pretty hard this week on knocking out the initial work. There are a few bugs with building the project but things are going pretty well.
 Pascal worked out drawing to the screen, playing music, and keyboard inputs. Pascal also educated us on how to work his engine and went through
 a test entity. Aside from that, not much. Splitting up the tasks on trello should happen very soon, and work shall be done. 
+
+### Meeting 7 - 10/29/20
+
+The green light has been given! Pascal has told us that everything we need to start coding is set down. We just need to get familiar with the 
+documentation and get warmed up with how to use his engine. For the first part of the meeting we figured out the first set of tasks we need to
+start on. We went through the design doc to get a bunch of trello tickets going. We worked on how we wanted the UI to look, such as the 
+health, mana, and XP bars and the spells as well. After that we split up the tasks. I'm going to build up the class structure for spells, Pascal is 
+going to take item drops, I believe laura is going to take the enemies, Owen is going to work on procedurally generating rooms, and I'm not sure
+what George and Andrew are doing. They're probably just gonna take whatever they like off the trello pile. I'm excited to finally get things going!
+Just gotta warm up my C++...
