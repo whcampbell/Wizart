@@ -110,3 +110,19 @@ health, mana, and XP bars and the spells as well. After that we split up the tas
 going to take item drops, I believe Laura is going to take the enemies, Owen is going to work on procedurally generating rooms, and I'm not sure
 what George and Andrew are doing. They're probably just gonna take whatever they like off the trello pile. I'm excited to finally get things going!
 Just gotta warm up my C++...
+
+### Meeting 8 - 11/5/20
+
+I kinda dropped the ball this week by not getting around to doing much. Turns out everyone had a pretty busy Halloweekend, and Owen couldn't get 
+Xcode working. Owen did do some research on integrated databases though, he's going to be messing with SQL (good for C and C++) to get things 
+saved real nice. Pascal, being the expert, was hard at work as usual. He drew up some sprites for mana, an enemy, and other item drops, and he 
+also did some more engine setup. As project leader, I need to stop Pascal from working. I have banished him to the art realm. He has given me no 
+guarantees. Andrew also has an idea for what he wants the sound of the game to be musically, and I'm excited to see what he's got.
+
+Now that we're splitting up to search for clues, Owen gave us the info on branching so we don't destroy the world. We then did a little more 
+messing with build on mac (turns out pascal yote the whole engine, thanks version control for getting it back), and now it works like a charm. 
+Since Laura and I were kinda daunted by the project the group decided that we should work together on something to figure out how this
+whole programming thing works. Laura and I will be coming back to the office on sunday to get some knowledge on coding and project structure 
+and we'll get started on a couple of the item drops to help us learn. 
+
+<img src="./Engine_Yeet.png"/>
