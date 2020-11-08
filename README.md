@@ -126,3 +126,11 @@ whole programming thing works. Laura and I will be coming back to the office on 
 and we'll get started on a couple of the item drops to help us learn. 
 
 <img src="./Engine_Yeet.png"/>
+
+### Mini-Meeting - 11/8/20
+
+Pascal Laura and I hopped on discord this evening to get some stuff done. Pascal walked us through the structure of his quasi-Entity-Component 
+system and we programmed up a couple items on our own. I was doing health, and I had it easy because I could just rip off the mana drop that 
+Pascal had already made. Laura took a more difficult route with the Exp drop because we decided that all Exp is gonna be in a big shared pool, 
+unlike health and mana which are gonna be separate for each player. Went quite well, I feel pretty good to have my first real code pushed up
+to the project. 
