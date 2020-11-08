@@ -73,10 +73,10 @@ In fact, lets assign the roles.
 
 Pascal - Art Director, Game Dev Expert, Engine Lead <br>
 Owen - Writing Director, Programming Director <br>
-George - Learner Team, Associate Developer <br>
-Laura - Learner Team, Associate Developer <br>
+George - Associate Developer <br>
+Laura - Associate Developer <br>
 Andrew - Music Director, Compilation Expert, Associate Developer <br>
-Will - Creative Director, Learner Team, Associate Developer <br>
+Will - Creative Director, Associate Developer <br>
 
 p.p.s. ONION MAN
 
