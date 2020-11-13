@@ -134,3 +134,18 @@ system and we programmed up a couple items on our own. I was doing health, and I
 Pascal had already made. Laura took a more difficult route with the Exp drop because we decided that all Exp is gonna be in a big shared pool, 
 unlike health and mana which are gonna be separate for each player. Went quite well, I feel pretty good to have my first real code pushed up
 to the project. 
+
+### Meeting 9 - 11/12/20
+
+Over the past week we started heating up. Laura and I did our item stuff, Owen made our shiny brand new integrated database, and Andrew brushed up
+on mixing to make the music sound pretty. Pascal also did his normal ton of work over the week. He restructured the engine (again) to make sure 
+that all the engine stuff we shouldn't see is behind an abstraction wall. He also made a particle system and it's currently showing numbers for
+damage when we hit stuff. It's also crashing the game. That should change soon enough. 
+
+Yeah, by the end of the meeting Pascal fixed the particle crashing issue. Apparently the multithreading was bonking itself because it would delete
+the object before it got done rendering it (I think, I don't perfectly remember what he said it was). I also knocked out the speed boost drop. It
+took a little more production than the health drop because I had to make a new component for buff timers and mess with the player files. I made 
+a goof at one point and our little mans began to go at light speed. Ope. Anyways, Andrew started work on random room generation, and Owen and 
+Laura were ironing out the experience drop some more. 
+
+I guess George was busy this week. 
