@@ -149,3 +149,12 @@ a goof at one point and our little mans began to go at light speed. Ope. Anyways
 Laura were ironing out the experience drop some more. 
 
 I guess George was busy this week. 
+
+### Mini-Meeting 11/15/20
+
+We were all able to get into the same room this time after a while of one or two of us having to discord in. We had a good head of steam going, so 
+we all just broke out into our own little projects. Owen kept working on the integrated database with SQL, and Laura finished up the XP drop, 
+getting her first commit up on the board. Andrew was working on the tiling of new rooms for procedural generation, and Pascal continued to be big 
+brain guy and answered all our questions. What I want right now is to start burning through spells, because I found it was simple enough to kinda 
+plug and chug for the item drops. I had to write in the skeleton enemy as a target though. I think my current mission is actually to add features 
+to him like a hurtbox (which I should have done already, ope) and a physics driver for the knockback. 
