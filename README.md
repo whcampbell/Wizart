@@ -170,4 +170,4 @@ worked on the display for XP, she's gonna make a nice bar. I coded up a physics 
 get hit by stuff. Took a little messing around with the bugs but I'm pretty happy with it. It's starting to look a bit like a game. Maybe I'll make
 some recordings and put them up on youtube to give updates... Anyways, here's a good still.
 
-<img src="./Week_10_Still"/>
+<img src="./Week_10_Still.png"/>
