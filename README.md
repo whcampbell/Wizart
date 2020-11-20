@@ -158,3 +158,16 @@ getting her first commit up on the board. Andrew was working on the tiling of ne
 brain guy and answered all our questions. What I want right now is to start burning through spells, because I found it was simple enough to kinda 
 plug and chug for the item drops. I had to write in the skeleton enemy as a target though. I think my current mission is actually to add features 
 to him like a hurtbox (which I should have done already, ope) and a physics driver for the knockback. 
+
+### Meeting 10 - 11/19/20
+
+Owen has a whole sector of the databases done. We decided that we only needed three, one each for mobs, spells, and items. He has the mob one all 
+set up. After getting the other two done he's gonna write up helpers to allow the rest of us to easily interface. Andrew's been experimenting with
+tiling and he has random generation of one room down. I believe he'll be working on stringing rooms together next. George was back with us this 
+week, he's gonna get warmed up by doing item drops for the point system. Oh yeah, I guess we're gonna have a point system to see how well you did
+after a run. Pascal is working away at some bugs and also being the font of knowledge that he usually is. Laura is following up on her XP drop and
+worked on the display for XP, she's gonna make a nice bar. I coded up a physics component, mainly just for objects to slide around after they 
+get hit by stuff. Took a little messing around with the bugs but I'm pretty happy with it. It's starting to look a bit like a game. Maybe I'll make
+some recordings and put them up on youtube to give updates... Anyways, here's a good still.
+
+<img src="./Week_10_Still"/>
