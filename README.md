@@ -171,3 +171,14 @@ get hit by stuff. Took a little messing around with the bugs but I'm pretty happ
 some recordings and put them up on youtube to give updates... Anyways, here's a good still.
 
 <img src="./Week_10_Still.png"/>
+
+
+### Meeting 11 - 12/3/20
+
+We took the week of Thanksgiving off. Or at least most of us did. Pascal was hard at work as usual, he must really have a blast with all this. He
+put in a log (now flog because ambiguity issues) function for output, added screenshake, and more art stuff like tiling and a couple animations for 
+the player. The rest of us got warmed up pretty quickly as well, most of us picking up the same jobs we had been working on previously. I started 
+fresh on a new spell for area of effect damage in a large box around the player. Queue lots of shenanigans with particles and a new lifetime 
+component. That's pretty much all she wrote for this week. Highlights of the meeting were Andrew creating a "very scary bug" where the frame rate 
+dropped to a big ol' zero and any movement of the player just caused the screen to smear, and my discord becoming wack and having "screenshake but 
+for audio." These are the drawbacks of a socially distanced workplace. 
