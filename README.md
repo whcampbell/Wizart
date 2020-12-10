@@ -182,3 +182,9 @@ fresh on a new spell for area of effect damage in a large box around the player.
 component. That's pretty much all she wrote for this week. Highlights of the meeting were Andrew creating a "very scary bug" where the frame rate 
 dropped to a big ol' zero and any movement of the player just caused the screen to smear, and my discord becoming wack and having "screenshake but 
 for audio." These are the drawbacks of a socially distanced workplace. 
+
+### Meeting 12 - 12/10/20
+
+Today is just a short meeting due to finals coming around. Everybody has a mess of projects, early exams, and other assorted tomfoolery. We just met
+for standup and to talk about plans for winter break. The mini coding sessions on sundays are gonna become a more consistent thing it seems. Good?
+Okay, back to school nonsense. 
