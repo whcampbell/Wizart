@@ -188,3 +188,5 @@ for audio." These are the drawbacks of a socially distanced workplace.
 Today is just a short meeting due to finals coming around. Everybody has a mess of projects, early exams, and other assorted tomfoolery. We just met
 for standup and to talk about plans for winter break. The mini coding sessions on sundays are gonna become a more consistent thing it seems. Good?
 Okay, back to school nonsense. 
+
+### no meeting during exam week. I also got sick. No it wasn't covid. 
