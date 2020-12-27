@@ -190,3 +190,17 @@ for standup and to talk about plans for winter break. The mini coding sessions o
 Okay, back to school nonsense. 
 
 ### no meeting during exam week. I also got sick. No it wasn't covid. 
+
+### no meeting on Christmas Eve either. 
+
+### Code Meeting - 12/27/20
+
+I believe this is our second meeting over winter break to work on the game together. I haven't been treating these as official meetings because
+not everyone is able to attend, but it's all we got right now so I guess I better document stuff. Laura has been working on UI for the XP bar and she
+got it all finished up, I believe today she was working on some bugs elsewhere. Andrew had been working on tiling rooms together, I think he's
+made good progress but I'm not sure because he couldn't make it today. Owen finished up the database for mobs and has been working on the skeleton
+guy that I put in earlier. He's gonna do enemy routing as well, but he can't do much without walls in the map. Pascal has been doing his thing 
+with rendering and engine stuff, he also did some animation work. He also fixed my bugs that I put into the AOE spell. Thanks Pascal. 
+Speaking of the AOE spell, I finished it up and it's working pretty well with the animation that Pascal put in. I might tweak some constants for
+knockback, but what I did today was add an onFire status effect to our component for buffs and debuffs. Works pretty good. I don't know what George
+has been doing. Oh well. 
