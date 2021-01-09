@@ -204,3 +204,15 @@ with rendering and engine stuff, he also did some animation work. He also fixed 
 Speaking of the AOE spell, I finished it up and it's working pretty well with the animation that Pascal put in. I might tweak some constants for
 knockback, but what I did today was add an onFire status effect to our component for buffs and debuffs. Works pretty good. I don't know what George
 has been doing. Oh well. 
+
+### Meeting 13 - 1/7/21
+
+We were all able to get together this time around. None of us had done much, we were all relaxing with family or working on other projects. 
+Everybody got back into the swing of things pretty easily though. George finished up the randomization and display for the score drop, and Laura
+plied her expertise from the XP bar to the Evil bar. Have I explained that? Well, we're gonna have an evil bar that fills up if you stay in 
+one spot for too long. That will encourage exploration, hopefully. Owen was working on pathfinding at first, but he decided to switch it up and
+make some menus. I believe he started with a pause menu. Andrew was still generating rooms and maps, he might be switching to enemy pathing though.
+It would work well with what he had been doing, because in order for A* to be effective there needs to be walls in the way. Pascal took my 
+request to make a fire sprite so that the onFire effect would actually look like something, and I worked on broadening the elemental effects. I 
+started by adding an element component that could be attached to spells, and then to make that work I had to give the player a spell slot system. I 
+did the basic structure of that (with a lot of hard coded constants for now) and I plan on working it out further in the upcoming weekend. 
