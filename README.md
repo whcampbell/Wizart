@@ -226,3 +226,5 @@ spell casting system less cringe. I just had to toss in some helper methods to a
 up, it just needs to be fleshed out with all the different types of stuff, which I'm excited to do. At work I do QA testing, so I'm not 
 gonna be writing much, just looking at other people's stuff. This is kinda sad, because I like writing. Oh well. Money is money, and cash is
 king. And I get to write for this project! It's all about the side hustle. 
+
+<img src="./Boom.png"/>
