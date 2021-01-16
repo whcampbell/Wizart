@@ -216,3 +216,13 @@ It would work well with what he had been doing, because in order for A* to be ef
 request to make a fire sprite so that the onFire effect would actually look like something, and I worked on broadening the elemental effects. I 
 started by adding an element component that could be attached to spells, and then to make that work I had to give the player a spell slot system. I 
 did the basic structure of that (with a lot of hard coded constants for now) and I plan on working it out further in the upcoming weekend. 
+
+### Meeting 14 - 1/14/21
+
+This meeting was only standup again. I get back from work pretty late these days (not because I work late, the commute is just long) so we had
+an evening meeting and everybody had evening plans. I'm okay with that, I just wanted to make sure we had any kind of meeting. The last thing
+I want to happen is for everybody to forget about the project and it eventually dies. Anyways I did some work as well, mostly just making the 
+spell casting system less cringe. I just had to toss in some helper methods to avoid nested switch statements. The basic structure is all set
+up, it just needs to be fleshed out with all the different types of stuff, which I'm excited to do. At work I do QA testing, so I'm not 
+gonna be writing much, just looking at other people's stuff. This is kinda sad, because I like writing. Oh well. Money is money, and cash is
+king. And I get to write for this project! It's all about the side hustle. 
