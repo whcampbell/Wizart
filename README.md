@@ -228,3 +228,11 @@ gonna be writing much, just looking at other people's stuff. This is kinda sad, 
 king. And I get to write for this project! It's all about the side hustle. 
 
 <img src="./Boom.png"/>
+
+### Meeting 15 - 2/5/21
+
+Been a long time since our last meeting. Felt weird knocking the dust off of this project after what I've been doing at work. We managed to 
+do actual stuff today though, more than just standup I mean. Everybody got back to what they'd been doing. Andrew with room generation, 
+George with score UI, Pascal with particle effects, Owen with menus, Laura with spell juice, and I started putting another spell in. I'm 
+currently satisfied with how the spell slot system is working so I moved on to putting more spells in. I'm happy that we can get back into
+the swing of things (hopefully) after getting a bit shaky over break. Wish us luck!
